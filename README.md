@@ -1,4 +1,4 @@
-# CoreUI CodeIgniter 3 Admin Template
+# CoreUI CodeIgniter 3 Admin Template (User Register/Login System)
 A CodeIgniter starter admin interface using [CoreUI Bootstrap HTML template](https://github.com/mrholek/CoreUI-Free-Bootstrap-Admin-Template). You can use this template as a starting point for your CodeIgniter application. I developed this for my personal projects and now I'm uploading it here with a hope that this will save a good amount of time for CodeIgniter developers.
 
 ## Main Features:
