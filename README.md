@@ -17,7 +17,7 @@ A CodeIgniter starter admin interface using [CoreUI Bootstrap HTML template](htt
 * Upload the zip file's content to your application's root directory
 * Create a database and set the credentials in ```application/config/database.php```
 * Import the SQL file to your database
-* Edit ```config.php``` and set your app's URL. That's all!
+* Edit ```application/config/config.php``` and set your app's URL. That's all!
 
 Once installed, you can start creating your own models, controllers and views. Happy coding!
 
