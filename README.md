@@ -1,4 +1,5 @@
-# CoreUI CodeIgniter 3 Admin Template (User Register/Login System)
+# CoreUI CodeIgniter 3 Admin Template
+### A complete user registration system in CodeIgniter
 A CodeIgniter starter admin interface using [CoreUI Bootstrap HTML template](https://github.com/mrholek/CoreUI-Free-Bootstrap-Admin-Template). You can use this template as a starting point for your CodeIgniter application. I developed this for my personal projects and now I'm uploading it here with a hope that this will save a good amount of time for CodeIgniter developers.
 
 ## Main Features:
@@ -39,7 +40,7 @@ $data = array(
   'password' => 'asdf',
   'role' => $this->user_model->get_roleid_by_name('User') // or Admin or any other roles you add to roles table
 );
-$add = $this->user_model->add_user($data); // $add will contain a JSON object contain status and user id if the insert was successful
+$add = $this->user_model->add_user($data); // $add will contain a JSON object containing status and user id if the insert was successful
 ```
 ### Update a User
 ```php
